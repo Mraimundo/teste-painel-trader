@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Build output
+.next/
+out/
+
+# Cache
+.swc/
+
+# Config files
+next.config.mjs
